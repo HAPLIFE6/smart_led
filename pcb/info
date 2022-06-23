@@ -1,0 +1,373 @@
+{
+  "uuid": "77810f36eaf38ab0a925954b825a999b",
+  "path": "Offline/%E6%A1%8C%E9%9D%A2%E6%99%BA%E8%83%BD%E5%8F%B0%E7%81%AF",
+  "name": "桌面智能台灯",
+  "content": "",
+  "created_at": "2022-05-24 09:42:53",
+  "updated_at": "2022-06-03 11:00:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c395265518efbf41df4f2f0656729c1b",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f2bf8a96cedf4d2d9a9bc0ab595be969": 1,
+        "5c1036b53a4146e4841df4ed0a9de8f0": 2,
+        "0e925ca519f445499f36cc39d0298331": 2,
+        "d6f3a4b0bba0432aa3507977687f7de3": 1,
+        "eaa76950fd7343a1953943ee7b9978d3": 2,
+        "ef49dcdf68274bfeb49b24f0bed73496": 2,
+        "a7291ceaee5442a999df26c55c7e675d": 1,
+        "7809ed3ba7c24a14936ce2a66b37ccdb": 2,
+        "3ec77201bbcd4ecd8722658d581a4e60": 4,
+        "65b1ae295679465fabfb76c1fc7cc7e6": 2,
+        "215fd27d7be547fdb9a9d7cace428aff": 2,
+        "ea4d9befc4c74b67b43c99d14616b7f6": 1,
+        "ed9eb2faffb34286820a54a14e9e9e24": 10,
+        "0783bf3e5e8a40d79bff27bb118bbc24": 3,
+        "5e0f9afa79914ddfadeb64f1084e8cd0": 1,
+        "67082a4ee642ac71e2dcdf6758d8dd66": 1,
+        "a060aa1eb57c41c19583f95eaf135388": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "CR1220-2",
+          1,
+          "BAT-SMD_CR1220-2",
+          "B1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Q&J",
+            "BOM_Manufacturer Part": "CR1220-2",
+            "BOM_Supplier Part": "C70381",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ad4cf9a98ad04c21832cf27a15f0d202",
+            "uuid": "67082a4ee642ac71e2dcdf6758d8dd66"
+          }
+        ],
+        [
+          "22p",
+          2,
+          "C1206",
+          "C1,C14",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "7bdec8012728462a85919a4d0d033579",
+            "uuid": "0783bf3e5e8a40d79bff27bb118bbc24"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C1206",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "7bdec8012728462a85919a4d0d033579",
+            "uuid": "0783bf3e5e8a40d79bff27bb118bbc24"
+          }
+        ],
+        [
+          "BAT54CG",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C393559",
+            "BOM_Manufacturer": "Galaxy",
+            "BOM_Manufacturer Part": "BAT54CG",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "bade90667a6e4731855e9a223387b8a6",
+            "uuid": "5e0f9afa79914ddfadeb64f1084e8cd0"
+          }
+        ],
+        [
+          "HDR-F-2.54_2x4",
+          1,
+          "HDR-F-2.54_2X4",
+          "ESP8266",
+          {
+            "BOM_Supplier Part": "C239344",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "31ed58ef9e15436886218390490a87d8",
+            "uuid": "d6f3a4b0bba0432aa3507977687f7de3"
+          }
+        ],
+        [
+          "2",
+          1,
+          "HDR-TH_20P-P2.54-V-F",
+          "H1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Ckmtw",
+            "BOM_Manufacturer Part": "220S-1*20P H=8.5MM Ytype Gold-plated",
+            "BOM_Supplier Part": "C124410",
+            "BOM_JLCPCB SMD": "Yes",
+            "puuid": "056e53c5990646b8a54edd935246880c",
+            "uuid": "ef49dcdf68274bfeb49b24f0bed73496"
+          }
+        ],
+        [
+          "1",
+          1,
+          "HDR-TH_20P-P2.54-V-F",
+          "H2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Ckmtw",
+            "BOM_Manufacturer Part": "220S-1*20P H=8.5MM Ytype Gold-plated",
+            "BOM_Supplier Part": "C124410",
+            "BOM_JLCPCB SMD": "Yes",
+            "puuid": "056e53c5990646b8a54edd935246880c",
+            "uuid": "ef49dcdf68274bfeb49b24f0bed73496"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x4",
+          2,
+          "HDR-F-2.54_1X4",
+          "H3,USART1",
+          {
+            "BOM_Supplier Part": "C225501",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "21473b495b6340c992965357d5701779",
+            "uuid": "eaa76950fd7343a1953943ee7b9978d3"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H4",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x8",
+          2,
+          "HDR-F-2.54_1X8",
+          "H5,H6",
+          {
+            "BOM_Supplier Part": "C225505",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "76a028e0363649388f2a2e340a157455",
+            "uuid": "7809ed3ba7c24a14936ce2a66b37ccdb"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          4,
+          "HDR-F-2.54_1X2",
+          "H7,H8,H11,H13",
+          {
+            "BOM_Supplier Part": "C49661",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x5",
+          2,
+          "HDR-F-2.54_1X5",
+          "H9,H10",
+          {
+            "BOM_Supplier Part": "C50950",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4bb67b2ac49a4595b3ed10b792fcbebb",
+            "uuid": "65b1ae295679465fabfb76c1fc7cc7e6"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          2,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1,KEY2",
+          {
+            "BOM_Supplier Part": "C118141",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "K2-1107ST-A4SW-06",
+            "puuid": "daacbe2eec304950b61eef2efe596556",
+            "uuid": "5c1036b53a4146e4841df4ed0a9de8f0"
+          }
+        ],
+        [
+          "2835正白光0.5W",
+          2,
+          "LED-SMD_L3.5-W2.8-FD-2835_WHITE",
+          "LED1,LED2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2895090",
+            "BOM_Manufacturer Part": "2835正白光0.5W",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9fbef3e0835749479dd2de5bf740e8eb",
+            "uuid": "215fd27d7be547fdb9a9d7cace428aff"
+          }
+        ],
+        [
+          "TC5050RGBF08-3CJH-AF53A",
+          1,
+          "LED-SMD_6P-L5.0-W5.0-TR_TC5050RGBF08",
+          "LED3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C784540",
+            "BOM_Manufacturer": "TCWIN",
+            "BOM_Manufacturer Part": "TC5050RGBF08-3CJH-AF53A",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "09248929d2634e04b0cb2bec8e440d87",
+            "uuid": "ea4d9befc4c74b67b43c99d14616b7f6"
+          }
+        ],
+        [
+          "GMI4015P-30DB",
+          1,
+          "MIC-TH_BD4.0-P1.4-D0.4-L-FD",
+          "MIC1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C529894",
+            "BOM_Manufacturer": "INGHAi",
+            "BOM_Manufacturer Part": "GMI4015P-30DB",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9a316a87b48341a891b8bdb2b0b557c1",
+            "uuid": "a060aa1eb57c41c19583f95eaf135388"
+          }
+        ],
+        [
+          "5K",
+          2,
+          "RES-TH_WH160-1-104",
+          "R1,R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "JML",
+            "BOM_Manufacturer Part": "Potentiometer WH160-1-104",
+            "BOM_Supplier Part": "C61836",
+            "puuid": "241885d95ab542f1a2bdd31988f491ee",
+            "uuid": "0e925ca519f445499f36cc39d0298331"
+          }
+        ],
+        [
+          "1k",
+          7,
+          "R0805",
+          "R3,R4,R5,R6,R7,R9,R11",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "4.7k",
+          3,
+          "R0805",
+          "R8,R10,R12",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "W25Q64FVSSIG",
+          1,
+          "SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "WINBOND",
+            "BOM_Manufacturer Part": "W25Q64FVSSIG",
+            "BOM_Supplier Part": "C14067",
+            "puuid": "fdf2396de7694c3e8177c1c94fe2bbcd",
+            "uuid": "f2bf8a96cedf4d2d9a9bc0ab595be969"
+          }
+        ]
+      ],
+      "updateTime": 1654225223,
+      "createTime": 1653356787,
+      "histories": [],
+      "created_at": "2022-05-24 09:46:27",
+      "updated_at": "2022-06-03 11:00:23"
+    },
+    {
+      "uuid": "bdda4d7a00a16fb601a745912f65771f",
+      "puuid": "77810f36eaf38ab0a925954b825a999b",
+      "title": "PCB_桌面智能台灯",
+      "filename": "PCB_桌面智能台灯.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ad4cf9a98ad04c21832cf27a15f0d202": 1,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "21473b495b6340c992965357d5701779": 2,
+        "4bb67b2ac49a4595b3ed10b792fcbebb": 2,
+        "7bdec8012728462a85919a4d0d033579": 3,
+        "76a028e0363649388f2a2e340a157455": 2,
+        "36b1306a115341f4b4d9407fb34974e0": 4,
+        "f83673d09e13450d934ca6be4be5af8f": 2,
+        "31ed58ef9e15436886218390490a87d8": 1,
+        "056e53c5990646b8a54edd935246880c": 2,
+        "daacbe2eec304950b61eef2efe596556": 2,
+        "9fbef3e0835749479dd2de5bf740e8eb": 2,
+        "09248929d2634e04b0cb2bec8e440d87": 1,
+        "241885d95ab542f1a2bdd31988f491ee": 2,
+        "b60f399a7a7e41848b2be1eb49c79141": 10,
+        "fdf2396de7694c3e8177c1c94fe2bbcd": 1,
+        "9a316a87b48341a891b8bdb2b0b557c1": 1
+      },
+      "BOM": [],
+      "updateTime": 1653401339,
+      "createTime": 1653370735,
+      "histories": [],
+      "created_at": "2022-05-24 13:38:55",
+      "updated_at": "2022-05-24 22:08:59"
+    }
+  ],
+  "sort": [],
+  "title": "桌面智能台灯",
+  "foldername": "桌面智能台灯",
+  "schfilename": "桌面智能台灯.json",
+  "schfilemtime": 1654225223281
+}

@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "bsp_oled.h": "c",
+        "i2c.h": "c",
+        "bsp_gy302.h": "c",
+        "spi.h": "c",
+        "bsp_w25q64.h": "c",
+        "main.h": "c",
+        "bsp_adc.h": "c",
+        "bsp_rgb.h": "c",
+        "windef.h": "c",
+        "uart_callback.h": "c",
+        "usart.h": "c",
+        "gui.h": "c",
+        "sstream": "c",
+        "deque": "c",
+        "queue": "c",
+        "string": "c",
+        "vector": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "bsp_rtc.h": "c"
+    }
+}
