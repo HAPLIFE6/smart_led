@@ -32,9 +32,9 @@
 
 #include <Blinker.h>
 
-char auth[] = "b2d8d5ecf330";
-char ssid[] = "esp";
-char pswd[] = "asdfghjkl";
+char auth[] = "b2d8xxxxxx";  //填写电灯科技设备码
+char ssid[] = "esp";         //填写wifi名
+char pswd[] = "asdfghjkl";   //填写wifi密码
 //串口2
 HardwareSerial mySerial(2);
 //变量定义

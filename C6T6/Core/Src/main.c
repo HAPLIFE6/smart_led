@@ -155,6 +155,9 @@ int main(void)
       TIM1->CCR1=(uint32_t)cc*10;
       HAL_TIM_PWM_Start(&htim1,TIM_CHANNEL_1);
       SPI_Draw_ChineseString("自动开",0,6,3);
+			//如果你没使用W25Q64，就只能显示英文
+			//例如：OLED_ShowString(0,6,"AUTO1",16);
+			//下面同理，把所有汉字显示替换英文显示
     }
     else {SPI_Draw_ChineseString("自动关",0,6,3);}
 
